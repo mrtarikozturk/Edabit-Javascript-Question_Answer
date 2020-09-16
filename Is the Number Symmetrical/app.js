@@ -15,6 +15,8 @@ isSymmetrical(9939) ➞ false
 
 isSymmetrical(1112111) ➞ true
 
+https://edabit.com/challenge/at7jF9Y7SmPGyD92u
+
 ****************************************************/
 
 
